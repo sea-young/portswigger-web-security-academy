@@ -1,5 +1,7 @@
 
-What is SQL injection? :: It is a web application attack in which an attacker inject malicious SQL queries into input fields to gain unauthorized access to or manipulate the database. 
+# What is SQL injection? 
+
+It is a web application attack in which an attacker inject malicious SQL queries into input fields to gain unauthorized access to or manipulate the database. 
 
 ## Full Login Code Vulnerable to SQL Injection (PHP + MySQL)
 
